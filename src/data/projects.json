@@ -1,0 +1,26 @@
+[
+    {
+      "title": "CryptShareX with AES and Steganography",
+      "imageSrc": "projects/project.png",
+      "description": "A secure data encryption and decryption platform.",
+      "skills": ["Python", "GoFile", "HTML/CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Lip Reading using Deep Learning",
+      "imageSrc": "projects/project.png",
+      "description": "A lip reading model using CNN.",
+      "skills": ["Deep Learning", "Python", "StreamLit"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Library Management System",
+      "imageSrc": "projects/project.png",
+      "description": "An efficient platform for college universities for library management.",
+      "skills": ["Java", "MySQL"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
